@@ -1,0 +1,13 @@
+body{
+            background-color: blanchedalmond;
+            text-align: left;
+            margin: 30px;
+        }
+        .header{
+            background-color: rgb(177, 161, 62);
+            height: 100px;
+        }
+        .h2{
+            padding-top: 30px;
+        }
+        
